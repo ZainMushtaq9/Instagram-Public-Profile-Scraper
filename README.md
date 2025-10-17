@@ -1,14 +1,14 @@
 # 📸 insta_scrape — Instagram Public Profile Scraper
 
-A small Streamlit app that fetches public Instagram profile information using **Instaloader**. This README contains everything you need to run it locally or deploy to **Streamlit Cloud (share.streamlit.io)**.
+A small Streamlit app that fetches public Instagram profile information using **Instaloader**. This README contains everything you need to run it locally or view the live demo.
 
 ---
 
 ## 🖼️ Screenshot
 
-![](instagram demo.jpg)
+![](instagram-demo.jpg)
 
-> Add your actual app screenshot in the `assets/` folder and name it `screenshot.png`.
+> The screenshot file `instagram-demo.jpg` is located in the main folder.
 
 ---
 
@@ -17,8 +17,8 @@ A small Streamlit app that fetches public Instagram profile information using **
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/insta_scrape.git
-cd insta_scrape
+git clone https://github.com/ZainMushtaq9/Instagram-Public-Profile-Scraper.git
+cd Instagram-Public-Profile-Scraper
 ```
 
 ### 2️⃣ Create a virtual environment (recommended)
@@ -61,17 +61,15 @@ requests
 
 ## 🌐 Live Demo (Streamlit Cloud)
 
-You can view and use the live demo here:
+You can view and use the **live deployed version** here:
 
-👉 **[Open Live Demo on Streamlit Cloud](https://share.streamlit.io/your-username/insta_scrape/main/app.py)**
-
-> Replace `your-username` with your GitHub username once deployed.
+👉 **[Open Live Demo on Streamlit Cloud](https://instagram-scrape.streamlit.app/)**
 
 ---
 
 ## ⚙️ Deploy on Streamlit Cloud
 
-1. Push your code to GitHub.
+1. Push your code to GitHub: [ZainMushtaq9/Instagram-Public-Profile-Scraper](https://github.com/ZainMushtaq9/Instagram-Public-Profile-Scraper.git)
 2. Go to [Streamlit Cloud](https://share.streamlit.io/).
 3. Click **New app** → Select your repo → Choose branch (e.g., `main`) → Set file path to `app.py`.
 4. Click **Deploy**.
@@ -79,10 +77,8 @@ You can view and use the live demo here:
 Your app will build and run automatically. You’ll get a URL similar to:
 
 ```
-https://share.streamlit.io/<your-username>/insta_scrape/main/app.py
+https://instagram-scrape.streamlit.app/
 ```
-
-Add that link in this README under the **Live Demo** section.
 
 ---
 
@@ -100,4 +96,4 @@ Released under the MIT License. Feel free to fork, improve, and share.
 
 ---
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/your-username/insta_scrape/main/app.py)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://instagram-scrape.streamlit.app/)
