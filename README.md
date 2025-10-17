@@ -6,7 +6,7 @@ A small Streamlit app that fetches public Instagram profile information using **
 
 ## 🖼️ Screenshot
 
-![](instagram-demo.jpg)
+![Instagram Demo Screenshot](https://raw.githubusercontent.com/ZainMushtaq9/Instagram-Public-Profile-Scraper/main/instagram%20demo.jpg)
 
 > The screenshot file `instagram-demo.jpg` is located in the main folder.
 
