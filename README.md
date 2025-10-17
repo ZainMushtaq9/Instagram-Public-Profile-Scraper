@@ -6,7 +6,7 @@ A small Streamlit app that fetches public Instagram profile information using **
 
 ## 🖼️ Screenshot
 
-![](assets/screenshot.png)
+![](instagram demo.jpg)
 
 > Add your actual app screenshot in the `assets/` folder and name it `screenshot.png`.
 
